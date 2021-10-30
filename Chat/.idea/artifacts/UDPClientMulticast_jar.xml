@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UDPClientMulticast:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UDPClientMulticast_jar</output-path>
+    <root id="archive" name="UDPClientMulticast.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/Client/UDP/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Code-Socket" />
+    </root>
+  </artifact>
+</component>
